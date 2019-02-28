@@ -1,1 +1,6 @@
 /* All styles for your header Components live here */
+div.header-container {
+    display: flex;
+    flex-direction: row;
+}
+
