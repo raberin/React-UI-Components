@@ -5,6 +5,7 @@ div.header-container {
     flex-direction: row;
     margin-bottom: 2%;
     margin-top: 2%;
+    width: 95%;
 }
 
 div.header-content {
@@ -25,7 +26,6 @@ p.at-lambda {
 
 .gray-text {
     color: #9EACB5;
-    padding-left: 1%;
     padding-top: 1%;
 }
 
