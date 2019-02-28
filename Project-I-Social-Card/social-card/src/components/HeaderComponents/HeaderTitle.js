@@ -8,7 +8,7 @@ const HeaderTitle = () => {
         <div className="header-content">
             <div className="header-title">
                 <h1>Lambda School</h1>
-                <p className="at-lambda">@Lambda School - 26 Jan</p>
+                <p className="gray-text at-lambda">@Lambda School - 26 Jan</p>
             </div>
             <HeaderContent />
         </div>

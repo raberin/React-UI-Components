@@ -3,6 +3,8 @@
 div.header-container {
     display: flex;
     flex-direction: row;
+    margin-bottom: 2%;
+    margin-top: 2%;
 }
 
 div.header-content {
@@ -18,6 +20,10 @@ div.header-title {
 }
 
 p.at-lambda {
+    width: 40%;
+}
+
+.gray-text {
     color: #9EACB5;
     padding-left: 1%;
     padding-top: 1%;
