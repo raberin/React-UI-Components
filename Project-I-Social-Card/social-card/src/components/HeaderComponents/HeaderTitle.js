@@ -5,10 +5,10 @@ import HeaderContent from "./HeaderContent";
 
 const HeaderTitle = () => {
     return (
-        <div>
+        <div className="header-content">
             <div className="header-title">
                 <h1>Lambda School</h1>
-                <p>Lambda School - 26 Jan</p>
+                <p className="at-lambda">@Lambda School - 26 Jan</p>
             </div>
             <HeaderContent />
         </div>
