@@ -1,1 +1,19 @@
 /* All styles for your Card Components live here */
+div.card-container {
+    border: solid 1px #9EACB5;
+    width: 87.5%;
+    margin-left: 8%;
+    border-radius: 5px;
+}
+
+img.card-banner {
+    width: 100%;
+}
+
+div.card-content {
+    padding: 3%;
+}
+
+p.react-p {
+    margin-top: 1%;
+}
