@@ -9,13 +9,13 @@ const ButtonContainer = (props) => {
         <div className="button-container">
             <div className="row">
                 <ActionButton className="actionStyle" name="clear" />
-                <NumberButton className="functionStyle" name="/" />  
+                <NumberButton className="functionStyle" name="÷" />  
             </div>
             <div className="row">
                 <NumberButton className="numberStyle" name="7" />    
                 <NumberButton className="numberStyle" name="8" />    
                 <NumberButton className="numberStyle" name="9" /> 
-                <NumberButton className="functionStyle" name="X" />     
+                <NumberButton className="functionStyle" name="x" />     
             </div>
             <div className="row">
                 <NumberButton className="numberStyle" name="4" />    
