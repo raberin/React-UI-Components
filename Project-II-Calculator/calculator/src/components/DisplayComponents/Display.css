@@ -1,0 +1,9 @@
+div.calculator-display {
+    width: 100%;
+    border: solid 1px #979797;
+    background: #222222;
+    color: white;
+    padding: 2% 3% 2% 0;
+    display: flex;
+    justify-content: flex-end;
+}

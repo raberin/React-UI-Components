@@ -1,0 +1,34 @@
+.numberStyle {
+    width: 25%;
+    background: #ffffff;
+    border: solid 1px #979797;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 2% 0 2% 0;
+}
+
+.functionStyle {
+    width: 25%;
+    background: #A10022;
+    border: solid 1px #979797;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 2% 0 2% 0;
+}
+
+.actionStyle {
+    width: 75%;
+    background: #ffffff;
+    border: solid 1px #979797;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 2% 0 2% 0;
+}
+
+div.row {
+    display: flex;
+    flex-direction: row;
+}
